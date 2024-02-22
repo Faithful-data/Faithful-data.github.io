@@ -1,31 +1,17 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello!
+Welcome to my Portfolio. 
 
+My name is Atogun Faith and I am excited to have you here!
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+I am a Data Analyst with in-depth technical skills in the use of various tools to extract and transform data to make informed decisions. I am proficient in Python, Sql, Excel, Tableau and Powerbi, and possess strong analytical skills but not limited to the following; data collection, data wrangling, data exploration, analysis, data interpretation, and presentation skill. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+In this Portfolio, you will find several projects that demonstrate my data analytics skills.I have included projects to showcase my data gathering, wrangling and exploratory skills, using various programming languages such as Python and SQL.
 
-(* = not included)
+You will also find projects in its final stage, being displayed in different Visuals and reported in dashboards. Hereby, showcasing my data interpretation and visualization skills through the use of analytics tools such as Excel, Tableau and Powerbi.
 
-AJ
-aj@lkn.io | @ajlkn
+Complementary to my analytical skills, I also possess critical thinking skills, problem solving skills, collaboration, attention to details, and strategic mindset in approaching problems.
 
+I trust you would find my portfolio to be informative and engaging, and I am opened to opportunities, collaboration and further engagement.
 
-Credits:
+Let’s get started!
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
