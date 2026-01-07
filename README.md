@@ -1,6 +1,8 @@
 # Faith Atogun - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my portfolio!
+
+Let's get started
 
 ## About This Portfolio Template
 
