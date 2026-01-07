@@ -4,41 +4,33 @@ Welcome to my portfolio!
 
 Let's get started
 
-## About This Portfolio
+### 📊 Employee Attrition Analysis (Excel)
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+## 🚀 Project Overview🔎 
 
-## 🚀 Projects
-
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+This project explores employee attrition across departments, age groups, marital status, and education fields. The analysis focuses on identifying key patterns and trends that contribute to workforce turnover.
 
 
-## 🛠️ Skills
+## 🛠️ Tools and Skill Used
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+- **Microsoft Excel**
+  
+- **Data Cleaning**
+  
+- **Pivot Tables**
 
-- **Power BI**: For Data Visualization.
-- **SQL, Excel**: For Data Analysis.
-- **Power Query, DAX**: For Data Modeling.
+-**Charts & Visualizations**
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+### 📈 Analysis Focus
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+Attrition by department
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+Attrition across age groups
+
+Attrition by employment status
+
+Attrition by education field
+
+🎯 Objective
+
+To demonstrate practical data analysis skills by transforming raw HR data into meaningful insights that support informed decision-making.
