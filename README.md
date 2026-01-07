@@ -26,6 +26,7 @@ This project explores employee attrition across departments, age groups, marital
 #### 🎯 Objective
 To demonstrate practical data analysis skills by transforming raw HR data into meaningful insights that support informed decision-making.
 
+
 ## 🚀 Project Two
 
 ### 📊 US Coca-Cola Retailer Sales Dashboard
