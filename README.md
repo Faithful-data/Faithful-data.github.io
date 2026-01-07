@@ -1,10 +1,9 @@
 # Faith Atogun - Data Analysis Portfolio
 
-Welcome to my portfolio!
-
+## 🚀 Project One
 
 ### 📊 Employee Attrition Analysis (Excel)
-### 🚀 Project Overview
+### 🔎 Project Overview
 
 This project explores employee attrition across departments, age groups, marital status, and education fields. The analysis focuses on identifying key patterns and trends that contribute to workforce turnover.
 
