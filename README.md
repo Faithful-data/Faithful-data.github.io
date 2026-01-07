@@ -2,7 +2,6 @@
 
 Welcome to my portfolio!
 
-Let's get started
 
 ### 📊 Employee Attrition Analysis (Excel)
 ### 🚀 Project Overview
@@ -14,14 +13,14 @@ This project explores employee attrition across departments, age groups, marital
 - **Microsoft Excel**
 - **Data Cleaning**
 - **Pivot Tables**
--**Charts & Visualizations**
+- **Charts & Visualizations**
 
 
 ### 📈 Analysis Focus
 
 - **Attrition by department**
 - **Attrition across age groups**
-- **Attrition by employment status**
+- **Attrition by marital status**
 - **Attrition by education field**
 
 ### 🎯 Objective
