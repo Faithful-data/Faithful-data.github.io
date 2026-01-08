@@ -53,7 +53,7 @@ To demonstrate the ability to analyze retail sales data and present insights thr
 
 ## 🚀 Project Three
 
-### 📊 Call Centre Report Dashboard
+### 📊 Call Centre Report Dashboard (Power Bi)
 #### 🔎 Project Overview
 
 This project features an interactive Call Centre Performance Dashboard built in Power BI to analyze call volumes, customer satisfaction, reported issues, and agent performance. The dashboard enables stakeholders to monitor operational efficiency and make data-driven decisions to improve customer service delivery.
