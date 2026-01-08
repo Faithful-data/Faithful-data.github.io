@@ -49,3 +49,33 @@ This project analyzes US Coca-Cola retailer data to uncover sales performance by
 
 #### 🎯 Objective
 To demonstrate the ability to analyze retail sales data and present insights through a clear, business-focused dashboard.
+
+
+## 🚀 Project Three
+
+### 📊 Call Centre Report Dashboard
+#### 🔎 Project Overview
+
+This project presents an interactive Call Centre Performance Dashboard designed to monitor operational efficiency, customer satisfaction, and agent performance. The dashboard provides data-driven insights that help management identify trends, improve service quality, and optimize workforce performance.
+
+
+#### 🛠️ Tools and & Technologies
+- **Data Analysis: Microsoft Excel**
+- **Visualization: Power BI**
+- **Data Cleaning: Excel / Power Query**
+
+
+#### 📊 Key Metrics & Insights
+_ **Total Calls: Overall volume of inbound and outbound calls**
+- **Call Rate per Month: Monthly call distribution and trends**
+- **Customer Satisfaction Rate: Percentage of satisfied vs dissatisfied customers**
+- **Issues Reported: Common customer issues and their frequency**
+- **Agent Performance Rate: Call handling efficiency and performance comparison across agents**
+
+#### 🎯 Objective
+- **Track total call volume over time**
+- **Analyze monthly call rates and trends**
+- **Measure customer satisfaction levels**
+- **Identify and categorize issues reported by customers**
+- **Evaluate call agent performance and productivity**
+
