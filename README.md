@@ -71,7 +71,7 @@ This project features an interactive Call Centre Performance Dashboard built in 
 - **Power BI Desktop – Data modeling and visualization**
 - **Power Query – Data cleaning and transformation**
 - **DAX – KPI calculations and performance metrics**
-- **Excel – Source data format**
+- **CSV – Source data format**
 
 
 #### 📊 Key Metrics & Insights
