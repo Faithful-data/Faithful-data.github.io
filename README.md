@@ -75,7 +75,7 @@ This project features an interactive Call Centre Performance Dashboard built in 
 
 
 #### 📊 Key Metrics & Insights
-_ **Total Calls: Overall volume of inbound and outbound calls**
+- **Total Calls: Overall volume of inbound and outbound calls**
 - **Call Rate per Month: Monthly call distribution and trends**
 - **Customer Satisfaction Rate: Percentage of satisfied vs dissatisfied customers**
 - **Issues Reported: Common customer issues and their frequency**
